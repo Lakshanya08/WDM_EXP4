@@ -38,7 +38,7 @@ plt.show()
 <img width="479" height="681" alt="image" src="https://github.com/user-attachments/assets/17bffbe9-e273-4a13-86b2-566156b3333f" />
 <img width="830" height="546" alt="image" src="https://github.com/user-attachments/assets/50cdad00-def3-4e40-9025-a2485a7383da" />
 
-### Program 2:
+### Program 2: 
 ```python
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
